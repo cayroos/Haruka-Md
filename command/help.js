@@ -23,8 +23,8 @@ ${mundur}
  • Downloads : ${download}
 
 *BOT INFO*
- • Creator : ${ownerName}
- • Bot Name : ${botName}
+ • Creator : ${Cyraa}
+ • Bot Name : ${Rara}
  • Time : ${jam}
  • Date : ${tanggal(new Date())}
  • Runtime : ${runtime(process.uptime())}
@@ -536,7 +536,7 @@ ${mundur}
 `
 }
 
-exports.donate = (pushname, ownerNumber) => {
+exports.donate = (pushname, ownernumber) => {
     return`Contact  Owner:
 wa.me/${ownerNumber} (Owner)`
 }
